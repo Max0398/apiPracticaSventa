@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using SistemaVenta.API.Utilidad;
 using SistemaVenta.DTO;
-using SIstemaVenta.BLL.Servicios.Contrato;
+using SistemaVenta.BLL.Servicios.Contrato;
 
 namespace SistemaVenta.API.Controllers
 {

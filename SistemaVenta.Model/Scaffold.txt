@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=LENOVO;DataBase=DBVenta;Trusted_Connection=True; TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer

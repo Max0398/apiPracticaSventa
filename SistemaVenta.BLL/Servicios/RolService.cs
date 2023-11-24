@@ -1,4 +1,8 @@
-﻿using SistemaVenta.BLL.Servicios.Contrato;
+﻿using AutoMapper;
+using SistemaVenta.BLL.Servicios.Contrato;
+using SistemaVenta.DAL.Respositorios.Contrato;
+using SistemaVenta.DTO;
+using SistemaVenta.Model;
 
 namespace SistemaVenta.BLL.Servicios
 {
